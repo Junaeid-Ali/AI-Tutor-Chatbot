@@ -71,7 +71,6 @@ with st.sidebar:
 # -------------------------
 model = ChatMistralAI(
     model_name="mistral-small-2506",
-    MISTRAL_API_KEY='ax6xjnejKqHVupYcbVSab8Q583yaLTuV',
     temperature=0.7,
 )
 
